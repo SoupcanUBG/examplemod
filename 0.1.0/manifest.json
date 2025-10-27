@@ -4,7 +4,7 @@
         "id": "polyprox",
         "author": "NotR8",
         "targets": ["0.5.1"],
-        "main": "mod.js"
+        "main": "main.mod.js"
     },
     "dependencies": []
 }
