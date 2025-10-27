@@ -1,17 +1,8 @@
 import { PolyMod } from "https://cdn.polymodloader.com/PolyTrackMods/PolyModLoader/0.5.1/PolyModLoader.js";
-class Proxy extends PolyMod {
-   init = (pml) => {
-    this.pml = pml;
-
-   } 
-  postInit = () => {
-
-  }
-  simInit = () => {
-
-  }
+class 0909 extends PolyMod {
+    
 }
 
 
-export let polyMod = Proxy();
+export let polyMod = new 0909();
 
