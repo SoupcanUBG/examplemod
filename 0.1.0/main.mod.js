@@ -13,5 +13,5 @@ class Proxy extends PolyMod {
 }
 
 
-export let polyMod = new YourModClass();
+export let polyMod = Proxy();
 
